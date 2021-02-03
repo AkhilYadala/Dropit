@@ -14,6 +14,7 @@
 		D165B26125CA63D40025C461 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D165B26025CA63D40025C461 /* Assets.xcassets */; };
 		D165B26425CA63D40025C461 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D165B26225CA63D40025C461 /* LaunchScreen.storyboard */; };
 		D165B26725CA63D40025C461 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D165B26625CA63D40025C461 /* main.m */; };
+		D165B27025CA71F60025C461 /* DropitBehaviour.m in Sources */ = {isa = PBXBuildFile; fileRef = D165B26F25CA71F60025C461 /* DropitBehaviour.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		D165B26325CA63D40025C461 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D165B26525CA63D40025C461 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D165B26625CA63D40025C461 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D165B26E25CA71F60025C461 /* DropitBehaviour.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DropitBehaviour.h; sourceTree = "<group>"; };
+		D165B26F25CA71F60025C461 /* DropitBehaviour.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DropitBehaviour.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				D165B25825CA63D20025C461 /* SceneDelegate.m */,
 				D165B25A25CA63D20025C461 /* ViewController.h */,
 				D165B25B25CA63D20025C461 /* ViewController.m */,
+				D165B26E25CA71F60025C461 /* DropitBehaviour.h */,
+				D165B26F25CA71F60025C461 /* DropitBehaviour.m */,
 				D165B25D25CA63D20025C461 /* Main.storyboard */,
 				D165B26025CA63D40025C461 /* Assets.xcassets */,
 				D165B26225CA63D40025C461 /* LaunchScreen.storyboard */,
@@ -148,6 +153,7 @@
 				D165B25C25CA63D20025C461 /* ViewController.m in Sources */,
 				D165B25625CA63D20025C461 /* AppDelegate.m in Sources */,
 				D165B26725CA63D40025C461 /* main.m in Sources */,
+				D165B27025CA71F60025C461 /* DropitBehaviour.m in Sources */,
 				D165B25925CA63D20025C461 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
